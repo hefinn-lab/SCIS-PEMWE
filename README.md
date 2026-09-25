@@ -4,7 +4,7 @@
 
 **Repository release: v1.0 | Model: V3 | Scheduler: V3 | Post-processing: V7**
 
-[Setup and dependencies](DEPENDENCIES.md) · [Release notes and results](RELEASE-NOTES.md) · [Citation](CITATION.cff) · [Attribution and AI use](ATTRIBUTION.md) · [MIT licence](LICENSE)
+[Setup and dependencies](DEPENDENCIES.md) · [Release notes and results](RELEASE-NOTES.md) · [Citation](CITATION.cff) · [Attribution](ATTRIBUTION.md) · [MIT licence](LICENSE)
 
 ![Proposed SCIS measurement system connecting a DC power supply, PEM water electrolyser, resistor-bank instrument, oscilloscope and host computer](figures/proposed-system.png)
 
