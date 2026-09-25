@@ -1,4 +1,4 @@
-# Attribution and generative AI use
+# Attribution and AI Utilisation 
 
 [README](README.md) · [MIT licence](LICENSE) · [Citation](CITATION.cff)
 
@@ -21,10 +21,9 @@ Square-wave and switched-resistor impedance methods precede this project. Releva
 
 This release concerns a configurable resistor-bank architecture and its simulation workflow. It does not claim invention of square-wave excitation or Fourier impedance extraction.
 
-## Generative AI use
+## AI Utilisation 
 
-GPT-6 and Opus 5.5 assisted post-processing software development, proofreading, editing and formatting. Some individual figure icons were generated using GPT image 2.5. Final figure layouts were assembled manually in Microsoft PowerPoint. The author reviewed the generated material and takes responsibility for the repository content.
-
+GPT-6 and Opus 5.5 assisted post-processing software development, drafting, proofreading, editing and formatting. Some individual figure icons were generated using GPT image 2.5. Final figure layouts were assembled manually in Microsoft PowerPoint. 
 ## Licensing scope
 
 The [MIT licence](LICENSE) applies to original project contributions, including the simulation model, analysis software, documentation and original figure content, to the extent the author holds the rights to license them. Preserve any separate notices attached to third-party material.
