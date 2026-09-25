@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software in research, please cite this release using these metadata."
+type: software
+title: "Switched-Current Impedance Spectroscopy for PEM Water Electrolysis"
+authors:
+  - family-names: "Finn"
+    given-names: "Hamish"
+    affiliation: "School of Engineering, University of Tasmania, Australia"
+version: "1.0"
+license: MIT
+abstract: >-
+  MATLAB/Simulink simulation of switched-resistor current excitation and
+  fundamental impedance reconstruction for a simplified PEM water
+  electrolysis equivalent circuit. The workflow evaluates five operating
+  points spanning 0.25 to 20 A, with 47 frequencies per point from 10 kHz
+  to 1 Hz, and exports figures, error tables and compact result caches.
+  Shared current-interrupt functionality is proposed but not validated.
+keywords:
+  - "electrochemical impedance spectroscopy"
+  - "PEM water electrolysis"
+  - "switched current"
+  - "resistor bank"
+  - "MATLAB"
+  - "Simulink"

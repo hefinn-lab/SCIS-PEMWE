@@ -1,0 +1,16 @@
+# MATLAB editor, Simulink cache and generated code
+*.asv
+*.autosave
+*.slxc
+/slprj/
+/codegen/
+
+# Regenerable default analysis folders; curated data may be stored elsewhere
+/SCIS_V7_results/
+/SCIS_V7_publication/
+/SCIS_V7_coarse/
+/SCIS_V7_replot/
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
