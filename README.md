@@ -50,7 +50,7 @@ result = SCIS_Post_Processing_V7(out,struct( ...
 
 ## Proposed circuit
 
-![Conceptual SCIS circuit with a local PEMWE equivalent circuit, selectable perturbation resistors, bypass MOSFET, ranged current sensing and gate-drive control](figures/SCIS_Diagram_.png)
+![Conceptual SCIS circuit with a local PEMWE equivalent circuit, selectable perturbation resistors, bypass MOSFET, ranged current sensing and gate-drive control](figures/SCIS_Diagram.png)
 
 The circuit illustrates the proposed instrument. This release supplies simulation software, not a fabrication-ready hardware package.
 
