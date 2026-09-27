@@ -23,7 +23,8 @@ This release concerns a configurable resistor-bank architecture and its simulati
 
 ## AI Utilisation 
 
-GPT-6 and Opus 5.5 assisted post-processing software development, drafting, proofreading, editing and formatting. Some individual figure icons were generated using GPT image 2.5. Final figure layouts were assembled manually in Microsoft PowerPoint. 
+GPT-6 and Opus 5.5 assisted post-processing software development. 
+
 ## Licensing scope
 
 The [MIT licence](LICENSE) applies to original project contributions, including the simulation model, analysis software, documentation and original figure content, to the extent the author holds the rights to license them. Preserve any separate notices attached to third-party material.
