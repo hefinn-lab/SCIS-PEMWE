@@ -7,6 +7,10 @@ authors:
     given-names: "Hamish"
     affiliation: "School of Engineering, University of Tasmania, Australia"
 version: "1.0"
+date-released: "2026-09-25"
+doi: "10.5281/zenodo.22952169"
+url: "https://zenodo.org/records/22952169"
+repository-code: "https://github.com/hefinn-lab/SCIS-PEMWE"
 license: MIT
 abstract: >-
   MATLAB/Simulink simulation of switched-resistor current excitation and
