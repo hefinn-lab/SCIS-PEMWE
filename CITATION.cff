@@ -4,7 +4,7 @@ type: software
 title: "Switched-Current Impedance Spectroscopy for PEM Water Electrolysis"
 authors:
   - family-names: "Finn"
-    given-names: "Hamish"
+    given-names: "Hamish Emmerson"
     affiliation: "School of Engineering, University of Tasmania, Australia"
 version: "1.0"
 date-released: "2026-09-25"
