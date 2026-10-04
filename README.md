@@ -28,7 +28,7 @@ These results assess reconstruction within a prescribed linear model. They do no
 | [Sweep_Scheduler_V3.m](Sweep_Scheduler_V3.m) | Source for the embedded MATLAB Function sweep scheduler |
 | [SCIS_Post_Processing_V7.m](SCIS_Post_Processing_V7.m) | Impedance extraction, figures, tables and compact caching |
 | [System overview](figures/proposed-system.png) | Proposed measurement arrangement |
-| [Circuit diagram](figures/SCIS_Diagram_.png) | Proposed switching, sensing and control architecture |
+| [Circuit diagram](figures/SCIS_Diagram.png) | Proposed switching, sensing and control architecture |
 
 ## Getting started
 
